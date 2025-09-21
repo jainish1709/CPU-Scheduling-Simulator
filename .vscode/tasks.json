@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build CPU Scheduler",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++17", "-Wall", "-O2",
+                "src/main.cpp", "src/Process.cpp", "src/Scheduler.cpp",
+                "src/algorithms/FCFS.cpp", "src/algorithms/SJF.cpp", 
+                "src/algorithms/RoundRobin.cpp", "src/algorithms/Priority.cpp",
+                "src/core/CPU.cpp", "src/core/Statistics.cpp",
+                "src/visualization/GanttChart.cpp", "src/utils/InputGenerator.cpp",
+                "-o", "scheduler.exe"
+            ],
+            "group": {"kind": "build", "isDefault": true},
+            "presentation": {"reveal": "always"}
+        }
+    ]
+}

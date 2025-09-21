@@ -1,0 +1,46 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# VS Code settings 
+.vscode/settings.json
+.vscode/launch.json
+.vscode/c_cpp_properties.json
+.vs/
+
+# Build directories
+build/
+bin/
+obj/
+
+# Output files
+# output/
+# *.log
+# *.txt
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE specific files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+
+# Data files 
+# data/
