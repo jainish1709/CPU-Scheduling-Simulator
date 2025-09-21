@@ -36,8 +36,8 @@ A comprehensive CPU scheduling simulator implemented in C++ that demonstrates va
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cpu-scheduling-simulator.git
-   cd cpu-scheduling-simulator
+   git clone https://github.com/yourusername/CPU-Scheduling-Simulator.git
+   cd CPU-Scheduling-Simulator
    ```
 
 2. **Open in VS Code:**
