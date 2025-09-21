@@ -156,7 +156,6 @@ CPUSchedulingSimulator/
 │       └── GanttChart.cpp/.h
 ├── build.bat                    # Windows build script (alternative)
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
