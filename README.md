@@ -204,17 +204,6 @@ Priority (Non-preemptive) 4.40             11.20                  4.40          
 Priority (Preemptive)     3.40             10.20                  2.60                 85.71%
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-algorithm`)
-3. Commit your changes (`git commit -am 'Add new scheduling algorithm'`)
-4. Push to the branch (`git push origin feature/new-algorithm`)
-5. Create a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -224,10 +213,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author:** [Your Name]
-- **Email:** [your.email@example.com]
-- **GitHub:** [@yourusername]
+- **Author:** [Jainish Pujara]
+- **Email:** [jainish1709@gmail.com]
+- **GitHub:** [@jainish1709]
 
 ---
-
-**Note:** This simulator is designed for educational purposes to understand CPU scheduling algorithms and their performance characteristics.
