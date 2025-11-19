@@ -30,7 +30,7 @@ A comprehensive CPU scheduling simulator implemented in C++ that demonstrates va
 - C/C++ Extension Pack by Microsoft
 - Code Runner (optional, for quick testing)
 
-## 🛠️ Installation & Build
+## Installation & Build
 
 ### Method 1: VS Code (Recommended)
 
@@ -122,7 +122,7 @@ Run the compiled executable:
 - **Multi-Core Test Case** - Designed for multi-CPU testing
 - **Convoy Effect Case** - Demonstrates convoy effect in FCFS
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 The simulator calculates and displays:
 
