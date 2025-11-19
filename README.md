@@ -2,7 +2,7 @@
 
 A comprehensive CPU scheduling simulator implemented in C++ that demonstrates various process scheduling algorithms with multi-core support.
 
-## 🚀 Features
+## Features
 
 - **Multiple Scheduling Algorithms:**
   - First Come First Served (FCFS)
@@ -19,7 +19,7 @@ A comprehensive CPU scheduling simulator implemented in C++ that demonstrates va
 - **Test Case Generator:** Built-in random process generation
 - **File I/O Support:** Save and load process configurations
 
-## 📋 Requirements
+## Requirements
 
 - **Compiler:** GCC with C++17 support
 - **IDE:** Visual Studio Code (recommended) with C/C++ extension
@@ -97,7 +97,7 @@ g++ -std=c++17 -Wall -Wextra -O2 \
     -o scheduler
 ```
 
-## 🎮 Usage
+## Usage
 
 Run the compiled executable:
 ```bash
@@ -132,7 +132,7 @@ The simulator calculates and displays:
 - **CPU Utilization** - Percentage of time CPUs are busy
 - **Throughput** - Number of processes completed per time unit
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 CPUSchedulingSimulator/
@@ -159,7 +159,7 @@ CPUSchedulingSimulator/
 └── README.md
 ```
 
-## 🔧 Algorithms Implemented
+## Algorithms Implemented
 
 ### 1. First Come First Served (FCFS)
 - **Type:** Non-preemptive
@@ -191,7 +191,7 @@ CPUSchedulingSimulator/
 - **Pros:** Important processes get preference
 - **Cons:** Can cause starvation of low-priority processes
 
-## 📈 Example Output
+## Example Output
 
 ```
 === ALGORITHM COMPARISON ===
@@ -203,18 +203,3 @@ Round Robin               5.00             11.80                  2.20          
 Priority (Non-preemptive) 4.40             11.20                  4.40                 85.71%
 Priority (Preemptive)     3.40             10.20                  2.60                 85.71%
 ```
-
-
-## 🙏 Acknowledgments
-
-- Operating Systems course materials and textbooks
-- CPU scheduling algorithm research papers
-- C++ programming community
-
-## 📞 Contact
-
-- **Author:** [Jainish Pujara]
-- **Email:** [jainish1709@gmail.com]
-- **GitHub:** [@jainish1709]
-
----
